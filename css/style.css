@@ -1,0 +1,191 @@
+.fondo1{
+	background: url("../image/1.jpg")no-repeat center;
+	-webkit-background-size:cover;
+	background-attachment: scroll;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.responsive{
+	max-width: 100%;
+	height: auto;
+	display:block;
+	margin: auto;
+}
+
+body{
+	width:100%; 
+}
+
+.textorojo{
+	color:#E62026;
+	font-weight: bolder;
+}
+
+.textoblanco{
+	color: #FFF;
+
+}
+
+.textoblancox{
+	color: #FFF;
+	font-weight: bolder;
+	font-size:45px;
+	padding-top:300px;
+
+
+}
+
+.menu{
+	display: inline-grid;
+}
+
+.menu:hover{
+	background-color:#EC4141;  
+}
+
+.espaciado{
+	padding-top:2%;
+	padding-bottom:2%;
+}
+
+.fondo2{
+	background-color:#EC4141;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.textoblancoz{
+	color: #FFF;
+	font-size:25px;
+	padding-top:25px;
+	font-weight: bolder;
+}
+
+.textoblanco6{
+	color: #FFF;
+	padding-top:1px;
+	font-weight: bolder;
+	font-size:20px;
+	text-align:center;
+}
+
+.Texto1 {
+	font-size:16px;
+}
+
+.borde{
+	border:1px solid white;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.colors{
+	background-color:white;
+}
+
+.fondo3{
+	background-color:#1C1C1C;
+}
+
+.Texto2{
+	font-size:14px;
+	color:#616A6B;
+}
+
+.texto-1{
+	font-size:21px;
+	padding-right:65%;
+	color:#FFF; 
+}
+
+.x{
+	margin-top: 60% !important;
+	font-size: 280%;
+	margin-left:80%;
+}
+
+.red{
+	color: #E62026;
+	background-size: 50px;
+}
+
+.centru{
+	padding-left: 10px ;
+	padding-right: 10px;
+	text-align: left;
+}
+
+.fondo4{
+	background-color:#656565;
+
+}
+
+.texto3{
+	color:#F2F2F2;
+}
+
+.centrur{
+	padding-left: 30px;
+	padding-right: 10px;
+	text-align: left;
+}
+
+.z{
+	margin-top: 22% !important;
+	font-size: 200%;
+	margin-left:80%;
+}
+
+.xd{
+	margin-left:-5px;
+}
+
+button{
+	background-color:#EC4141;
+	border:black 1px solid;
+	padding-top:8px;
+	padding-bottom:8px;
+	padding-right: 5px;
+	padding-left: 5px;
+	position:relative;
+	right: -18px;
+	bottom:40px;
+
+}
+
+.fondo5{
+	background-color:#000000;
+}
+
+.centrul{
+	padding-left: 30px;
+	padding-right: 10px;
+	text-align: left;
+	font-size:18px; 
+	padding-top:45px; 
+}
+
+.texto2{
+	font-size:14px;
+	color:#616A6B;
+	font-weight: bolder;
+}
+
+.lol{
+	border:#656565 1px solid;
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5%;
+	padding-bottom:5%;  
+}
+
+.white{
+	color: #FFF;
+	left:60%;  
+}
+
+.centrado{
+	padding-top:20px;
+	padding-right: 40px; 
+}
